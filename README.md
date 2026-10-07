@@ -1,0 +1,1 @@
+# Pascal Avionics - Registro Apparati
